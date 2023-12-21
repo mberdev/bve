@@ -1,5 +1,6 @@
 .env
 downloads/
+*.mp4
 
 # Editors
 .vscode/
